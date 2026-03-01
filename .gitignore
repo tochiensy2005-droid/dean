@@ -1,0 +1,61 @@
+# ==================== MÔI TRƯỜNG ====================
+.env
+.env.local
+.env.*.local
+
+# ==================== PYTHON ====================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==================== IDE / EDITOR ====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ==================== HỆ ĐIỀU HÀNH ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==================== LOGS & CACHE ====================
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# ==================== FAISS & INDEX ====================
+*.faiss
+*.pkl
+faiss_index/
+
+# ==================== JUPYTER ====================
+.ipynb_checkpoints/
+
+# ==================== DỮ LIỆU NHẠY CẢM ====================
+archive/
+*.pdf

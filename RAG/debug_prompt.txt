@@ -1,0 +1,792 @@
+PROMPT SENT TO GEMINI:
+ROLE: Bạn là chuyên gia du lịch Việt Nam, trải dài trả lời dựa TOÀN BỘ trên dữ liệu được cung cấp.
+
+DỮ LIỆU THAM KHẢO:
+=== THÔNG TIN TỪ TÀI LIỆU ===
+
+[1] (Đề án.pdf - Trang 410)
+Độ tương tự: 0.8293
+Nội dung: ắ
+c và âm thanh. Cu
+ố
+i cùng, phía sau sân 
+kh
+ấ
+u là 18 phòng trang 
+đi
+ể
+m dành cho di
+ễ
+n viên, 2 phòng t
+ậ
+p, cùng các phòng làm vi
+ệ
+c, thư 
+vi
+ệ
+n, phòng h
+ọ
+p.
+[1]
+ 
+Có th
+ể
+ 
+tìm th
+ấ
+y 
+ở
+ 
+b
+ề
+ 
+ngoài c
+ủ
+a công trình nhi
+ề
+u phong cách ki
+ế
+n trúc khác nhau. M
+ặ
+t chính 
+nhà hát n
+ổ
+i b
+ậ
+t nh
+ờ
+ 
+hàng c
+ộ
+t theo 
+th
+ứ
+c Ionic
+ 
+La Mã, phía trên nh
+ấ
+n b
+ở
+i các mái chóp cong 
+l
+ợ
+p ngói đá. Dư
+ờ
+ng như nh
+ữ
+ng nguyên t
+ắ
+c 
+ki
+ế
+n trúc Ph
+ụ
+c Hưng
+ 
+đư
+ợ
+c nh
+ấ
+n m
+ạ
+nh phía m
+ặ
+t 
+ngoài này. Tuy v
+ậ
+y, nh
+ữ
+ng đư
+ờ
+ng cong u
+ố
+n lư
+ợ
+n c
+ủ
+a các ban công k
+ế
+t h
+ợ
+p v
+ớ
+i hình th
+ứ
+c 
+cu
+ố
+n vòm phía trên l
+ố
+i vào l
+ạ
+i làm n
+ổ
+i b
+ậ
+t nh
+ữ
+ng y
+ế
+u t
+ố
+ 
+Baroque
+. 
+Ở
+ 
+c
+ả
+ 
+m
+ặ
+t bên l
+ẫ
+n m
+ặ
+t
+
+[2] (Đề án.pdf - Trang 385)
+Độ tương tự: 0.8287
+Nội dung: Do n
+ằ
+m 
+ở
+ 
+v
+ị
+ 
+trí trung tâm nên du khách có th
+ể
+ 
+đ
+ế
+n Nhà hát L
+ớ
+n b
+ằ
+ng nhi
+ề
+u cách khác nhau 
+(
+Ả
+nh: sưu t
+ầ
+m)
+ 
+D
+ắ
+t túi: 
+18 đ
+ị
+a đi
+ể
+m du l
+ị
+ch Hà N
+ộ
+i 1 ngày h
+ấ
+p d
+ẫ
+n nh
+ấ
+t 
+ 
+“Đ
+ổ
+i gió” v
+ớ
+i các 
+đ
+ị
+a đi
+ể
+m vui chơi cu
+ố
+i tu
+ầ
+n 
+ở
+ 
+Hà N
+ộ
+i 
+ 
+TOP 30 
+đ
+ị
+a đi
+ể
+m du l
+ị
+ch Hà N
+ộ
+i
+ 
+n
+ộ
+i thành và ngo
+ạ
+i thành HOT nh
+ấ
+t
+ 
+Các s
+ả
+n ph
+ẩ
+m đư
+ợ
+c yêu thích nh
+ấ
+t
+
+[3] (Đề án.pdf - Trang 409)
+Độ tương tự: 0.8285
+Nội dung: ớ
+n Hà N
+ộ
+i v
+ớ
+i hàng c
+ộ
+t theo th
+ứ
+c Ionic La Mã và các 
+trang trí phong phú.
+ 
+ 
+M
+ặ
+t đ
+ứ
+ng Nhà hát L
+ớ
+n Hà N
+ộ
+i nhìn t
+ứ
+ 
+hư
+ớ
+ng Tây Nam.
+
+[4] (Đề án.pdf - Trang 255)
+Độ tương tự: 0.8275
+Nội dung: ■
+ 
+Nhà hát múa r
+ố
+i nư
+ớ
+c Thăng Long
+:
+ 
+Là m
+ộ
+t trong nh
+ữ
+ng đ
+ị
+a đi
+ể
+m bi
+ể
+u di
+ễ
+n ngh
+ệ
+ 
+thu
+ậ
+t múa r
+ố
+i nư
+ớ
+c n
+ổ
+i ti
+ế
+ng nh
+ấ
+t 
+ở
+ 
+Vi
+ệ
+t 
+Nam, thu hút r
+ấ
+t đông khách du l
+ị
+ch trong và ngoài nư
+ớ
+c. Nhà hát m
+ở
+ 
+c
+ử
+a t
+ấ
+t c
+ả
+ 
+các 
+ngày trong tu
+ầ
+n, giá vé dao đ
+ộ
+ng t
+ừ
+ 
+60.000
+-
+100.000đ/vé.
+ 
+ 
+Bên trong nhà hát múa r
+ố
+i nư
+ớ
+c Thăng Long (
+ả
+nh sưu t
+ầ
+m)
+ 
+■
+ 
+Ph
+ố
+ 
+c
+ổ
+ 
+Hà N
+ộ
+i
+ 
+Ở
+ 
+c
+ạ
+nh H
+ồ
+ 
+Gươm là các ph
+ố
+ 
+c
+ổ
+ 
+như Hàng Ngang, Hàng Đào, Hàng Đư
+ờ
+ng,… nơi du 
+khách có th
+ể
+ 
+tham quan, khám phá cu
+ộ
+c s
+ố
+ng, văn hóa và con ngư
+ờ
+i c
+ũng nh
+ư nét 
+ẩ
+m 
+th
+ự
+c đ
+ộ
+c đáo c
+ủ
+a Hà N
+ộ
+i.
+
+[5] (Đề án.pdf - Trang 412)
+Độ tương tự: 0.826
+Nội dung: Ban qu
+ả
+n lý Nhà hát L
+ớ
+n Hà N
+ộ
+i, v
+ớ
+i tên giao d
+ị
+ch qu
+ố
+c t
+ế
+ 
+Hanoi Opera House, đư
+ợ
+c thành 
+l
+ậ
+p ngày 17 tháng 9 năm 1997 theo quy
+ế
+t đ
+ị
+nh thành l
+ậ
+p s
+ố
+ 
+765 c
+ủ
+a 
+Th
+ủ
+ 
+tư
+ớ
+ng Chính ph
+ủ
+, 
+có ch
+ứ
+c năng và nhi
+ệ
+m v
+ụ
+:
+ 
+●
+ 
+T
+ổ
+ 
+ch
+ứ
+c các ho
+ạ
+t đ
+ộ
+ng văn hóa, ngh
+ệ
+ 
+thu
+ậ
+t ph
+ụ
+c v
+ụ
+ 
+nhi
+ệ
+m v
+ụ
+ 
+chính tr
+ị
+, xã h
+ộ
+i 
+quan tr
+ọ
+ng c
+ủ
+a 
+Đ
+ả
+ng
+ 
+và 
+Nhà nư
+ớ
+c
+.
+ 
+●
+ 
+T
+ổ
+ 
+ch
+ứ
+c các ho
+ạ
+t đ
+ộ
+ng văn hóa, ngh
+ệ
+ 
+thu
+ậ
+t, h
+ộ
+i ngh
+ị
+, h
+ộ
+i th
+ả
+o, h
+ọ
+p báo chiêu đ
+ãi 
+qu
+ố
+c gia và qu
+ố
+c t
+ế
+ 
+theo k
+ế
+ 
+ho
+ạ
+ch c
+ủ
+a 
+B
+ộ
+ 
+Văn hóa, Th
+ể
+ 
+thao và Du l
+ị
+ch
+.
+ 
+●
+ 
+T
+ổ
+ 
+ch
+ứ
+c các ho
+ạ
+t đ
+ộ
+ng văn hóa ngh
+ệ
+ 
+thu
+ậ
+t ch
+ấ
+t lư
+ợ
+ng cao phù h
+ợ
+p v
+ớ
+i ch
+ứ
+c 
+năng, nhi
+ệ
+m v
+ụ
+.
+ 
+●
+ 
+Quan h
+ệ
+ 
+và h
+ợ
+p tác v
+ớ
+i các t
+ổ
+ 
+ch
+ứ
+c trong nư
+ớ
+c và qu
+ố
+c t
+ế
+ 
+có liên quan đ
+ể
+ 
+trao 
+đ
+ổ
+i nghi
+ệ
+p v
+ụ
+ 
+và t
+ổ
+ 
+ch
+ứ
+c các ho
+ạ
+t đ
+ộ
+ng văn hóa ngh
+ệ
+ 
+thu
+ậ
+t theo s
+ự
+ 
+phân công 
+c
+ủ
+a B
+ộ
+ 
+và theo quy đ
+ị
+nh c
+ủ
+a pháp lu
+ậ
+t.
+ 
+●
+ 
+T
+ổ
+ 
+ch
+ứ
+c các ho
+ạ
+t đ
+ộ
+ng d
+ị
+ch v
+ụ
+ 
+phù h
+ợ
+p v
+ớ
+i ch
+ứ
+c năng và nhi
+ệ
+m v
+ụ
+ 
+c
+ủ
+a Nhà hát 
+L
+ớ
+n Hà N
+ộ
+i và theo quy đ
+ị
+nh c
+ủ
+a 
+pháp lu
+ậ
+t
+.
+[20]
+ 
+V
+ớ
+i danh ti
+ế
+ng, v
+ẻ
+ 
+đ
+ẹ
+p ki
+ế
+n trúc, v
+ị
+ 
+trí 
+ở
+ 
+trung tâm thành ph
+ố
+ 
+và giá cho thuê th
+ấ
+p so v
+ớ
+i các 
+đ
+ị
+a đi
+ể
+m khác vì 
+đư
+ợ
+c Nhà nư
+ớ
+c bao c
+ấ
+p m
+ộ
+t ph
+ầ
+n, Nhà hát L
+ớ
+n là m
+ộ
+t đ
+ị
+a đi
+ể
+m bi
+ể
+u di
+ễ
+n 
+lý t
+ư
+ở
+ng 
+ở
+ 
+Hà N
+ộ
+i.
+[21]
+ 
+T
+ừ
+ 
+con s
+ố
+ 
+ch
+ỉ
+ 
+17 bu
+ổ
+i di
+ễ
+n vào năm 2000, đ
+ế
+n đ
+ầ
+
+
+
+Câu hỏi: Nhà hát lớn
+
+YÊU CẦU:
+- PHẢI trả lời dựa trên dữ liệu trên. KHÔNG được từ chối vì "không tìm thấy" nếu dữ liệu có sẵn.
+- Nếu dữ liệu đề cập, hãy tóm tắt chi tiết và trích dẫn nguồn.
+- Nếu thật sự KHÔNG có thông tin liên quan, mới nói rõ.
+- Trả lời bằng tiếng Việt, ngắn gọn.
+
+
