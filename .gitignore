@@ -56,6 +56,4 @@ faiss_index/
 # ==================== JUPYTER ====================
 .ipynb_checkpoints/
 
-# ==================== DỮ LIỆU NHẠY CẢM ====================
-archive/
-*.pdf
+
